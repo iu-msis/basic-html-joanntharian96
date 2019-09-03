@@ -1,0 +1,30 @@
+.thumbnail {
+  text-align: center;
+}
+#profile {
+  width: 200px;
+  margin-top: 5% ;
+}
+
+.tableIndex {
+  margin-top: 2%;
+  font-size: 20px;
+
+}
+
+#source {
+  color: black;
+}
+
+footer {
+  min-height: 100px;
+  text-align: center;
+  font-size: 20px;
+  background-color: lightgrey;
+}
+
+.paragraph {
+  font-weight:bold;
+  font-size: 20px;
+  padding: 2%;
+}
